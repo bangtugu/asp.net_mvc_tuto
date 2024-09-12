@@ -24,3 +24,8 @@ https://learn.microsoft.com/ko-kr/aspnet/core/tutorials/first-mvc-app/start-mvc?
 
 자습을 .NET 8.0으로 진행하면서, 데이터베이스 패키지는 9.0버전으로 받아 진행에 문제가 있었다.
 
+
+
+###### [Part 5, work with a database in an ASP.NET Core MVC app](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/working-with-sql?view=aspnetcore-8.0&tabs=visual-studio)
+
+![image-20240912180544371](assets/image-20240912180544371.png)
