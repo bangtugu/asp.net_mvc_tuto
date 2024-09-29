@@ -29,3 +29,5 @@ https://learn.microsoft.com/ko-kr/aspnet/core/tutorials/first-mvc-app/start-mvc?
 ###### [Part 5, work with a database in an ASP.NET Core MVC app](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/working-with-sql?view=aspnetcore-8.0&tabs=visual-studio)
 
 ![image-20240912180544371](assets/image-20240912180544371.png)
+
+##### [Part 6, controller methods and views in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/controller-methods-views?view=aspnetcore-8.0)
