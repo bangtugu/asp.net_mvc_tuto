@@ -36,3 +36,6 @@ https://learn.microsoft.com/ko-kr/aspnet/core/tutorials/first-mvc-app/start-mvc?
 
 ##### [Part 7, add search to an ASP.NET Core MVC app](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/search?view=aspnetcore-8.0)
 
+
+
+##### [Part 8, add a new field to an ASP.NET Core MVC app](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/new-field?view=aspnetcore-8.0&tabs=visual-studio)
