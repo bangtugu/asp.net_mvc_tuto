@@ -43,3 +43,7 @@ https://learn.microsoft.com/ko-kr/aspnet/core/tutorials/first-mvc-app/start-mvc?
 
 
 ##### [Part 9, add validation to an ASP.NET Core MVC app](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/validation?view=aspnetcore-8.0)
+
+
+
+##### [Part 10, examine the Details and Delete methods of an ASP.NET Core app](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/details?view=aspnetcore-8.0)
